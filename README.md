@@ -10,6 +10,14 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on python projects
 - 🤔 I’m looking for help with ML
 - 📫 How to reach me: saquib.glhs@gmail.com
+
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=saquib9&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=000000">
+
+
+
+
 -->
 
 - 🔭 I’m currently an undergrad student 
@@ -20,4 +28,4 @@ Here are some ideas to get you started:
 
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=saquib9&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=ffffff">
+<img src="https://github-readme-stats.vercel.app/api?username=saquib9&&show_icons=true&title_color=ffffff&icon_color=ffff00&text_color=daf7dc&bg_color=000000">
