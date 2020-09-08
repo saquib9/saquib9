@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi I'm Nazmus Saquib 👋
+## An undergrad Computer Science student and business enthusiast 
 
 <!--
 **saquib9/saquib9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,7 +21,7 @@ Here are some ideas to get you started:
 
 -->
 
-- 🔭 I’m currently an undergrad student 
+
 - 🌱 I’m currently learning reactJS
 - 👯 I’m looking to collaborate on open source python projects
 - 🤔 I’m looking for help with ML
