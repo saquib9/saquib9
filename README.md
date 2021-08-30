@@ -1,5 +1,5 @@
 ### Hi I'm Nazmus Saquib 👋
-## An undergrad Computer Science student and Business Enthusiast 
+## An Junior Software Developer and Business Enthusiast 
 
 <!--
 **saquib9/saquib9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
