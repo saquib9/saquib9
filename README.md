@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 -->
 
 
-- 🌱 I’m currently learning reactJS
+- 🌱 I’m currently learning NodeJs
 - 👯 I’m looking to collaborate on open source python projects
 - 🤔 I’m looking for help with ML
 - 📫 How to reach me: saquib.glhs@gmail.com
