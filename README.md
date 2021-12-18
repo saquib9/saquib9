@@ -1,14 +1,14 @@
 ### Hi I'm Nazmus Saquib 👋
-## A Junior Software Developer and Business Enthusiast 
+## A Software Developer and Research Enthusiast 
 
 <!--
 **saquib9/saquib9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently an undergrad student 
-- 🌱 I’m currently learning nodeJS
-- 👯 I’m looking to collaborate on python projects
+- 🔭 I’m currently a software developer 
+- 🌱 I’m currently learning Tableau
+- 👯 I’m looking to collaborate on big data or any other CS research
 - 🤔 I’m looking for help with ML
 - 📫 How to reach me: saquib.glhs@gmail.com
 
