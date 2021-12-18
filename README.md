@@ -22,8 +22,9 @@ Here are some ideas to get you started:
 -->
 
 
-- 🌱 I’m currently learning NodeJs
-- 👯 I’m looking to collaborate on open source python projects
+- 🔭 I’m currently a software developer 
+- 🌱 I’m currently learning Tableau
+- 👯 I’m looking to collaborate on big data or any other CS research
 - 🤔 I’m looking for help with ML
 - 📫 How to reach me: saquib.glhs@gmail.com
 
