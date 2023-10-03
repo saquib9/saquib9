@@ -22,10 +22,10 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 I’m currently a software developer 
-- 🌱 I’m currently learning Tableau
-- 👯 I’m looking to collaborate on big data or any other CS research
-- 🤔 I’m looking for help with ML
+- 🔭 I’m currently pursuing masters in Computer Science at University at Buffalo
+- 🤔 I’m looking for guidance to get started with a Product Management internship in the US
+- 🌱 I’m currently learning PyTorch
+- 👯 I’m looking to collaborate on big data or data oriented research
 - 📫 How to reach me: saquib.glhs@gmail.com
 
 
