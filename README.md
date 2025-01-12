@@ -6,10 +6,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently pursuing masters in Computer Science at University at Buffalo
+- 🔭 I recently finished my master's in Computer Science at the University at Buffalo
 - 🌱 I’m currently learning PyTorch
-- 👯 I’m looking to collaborate on big data or any data oriented research
-- 🤔 I’m looking for guidance to get started with a Product Management internship in the US
+- 👯 I’m looking to collaborate on big data or any data-oriented projects
+- 🤔 I’m looking for my first full-time job in the USA
 - 📫 How to reach me: saquib.glhs@gmail.com
 
 
@@ -22,10 +22,10 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 I’m currently pursuing masters in Computer Science at University at Buffalo
-- 🤔 I’m looking for guidance to get started with a Product Management internship in the US
+- 🔭 I recently finished my master's in Computer Science at the University at Buffalo
+- 🤔 I’m looking for my first full-time job in the USA
+- 👯 I’m looking to collaborate on big data or any data-oriented projects
 - 🌱 I’m currently learning PyTorch
-- 👯 I’m looking to collaborate on big data or data oriented research
 - 📫 How to reach me: saquib.glhs@gmail.com
 
 
